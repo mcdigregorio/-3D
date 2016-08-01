@@ -346,16 +346,14 @@ UsedLibrary="C:/EAGLE-7.5.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/EAGLE-7.5.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/EAGLE-7.5.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE-7.5.0/lbr/zilog.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/Microchip_By_element14_Batch_1.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/LTC_By_element14_Batch_1.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/NXP_By_element14_Batch_1.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/Infineon_By_element14_Batch_1.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="97 151 1569 863"
-State=2
-Number=0
-
-[Win_2]
 Type="Board Editor"
-Loc="-8 -8 1911 1009"
+Loc="0 0 1919 1017"
 State=3
 Number=1
 File="D:/NotSaved/digregorio/Downloads/arduino-Due-Reference-design/arduino-Due-Reference-design/Arduino-DUE-V03.brd"
@@ -399,7 +397,13 @@ AddLevel=2
 PadsSameType=0
 Layer=16
 
+[Win_2]
+Type="Control Panel"
+Loc="0 0 1919 989"
+State=1
+Number=0
+
 [Desktop]
-Screen="4566 1239"
+Screen="1920 1080"
 Window="Win_1"
 Window="Win_2"
